@@ -17,3 +17,22 @@ body,html{
     color:lightgreen
 }
 
+.image-bg{
+    background-image:url("static/animation_tructor.webp") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 90vh;
+    width: 100vw;
+
+}
+
+.back-blur{
+    backdrop-filter: blur(3px);
+}
+
+.text-shadow{
+    text-shadow: 2px 0px 10px gray;
+
+    text-shadow: 7px 7px 11px gray;
+}
