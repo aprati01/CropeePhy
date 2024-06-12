@@ -1,0 +1,16 @@
+body,html{
+    /* background-image:url("static/backgroud.png") ; */
+    background-image:url("static/bg_anim.gif") ;
+    background-repeat: no-repeat; 
+    height: 100%;
+    background-size: cover;
+
+}
+
+
+.navbar-brand > img{
+    height: 34px;
+   
+}
+
+
